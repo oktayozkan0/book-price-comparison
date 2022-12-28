@@ -1,7 +1,7 @@
 <br/>
 <h2>Important note</h2>
 This is an experimental project. There may be problems, bugs and prices might be wrong (they are usually true).
-# book-price-comparison
+<h1> book-price-comparison </h1>
 Simple Web Scraper with Django and Scrapy,
 Only Turkish books and Turkish book eCommerce websites  (except Amazon)
 <br/>

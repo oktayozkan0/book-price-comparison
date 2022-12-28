@@ -1,6 +1,8 @@
 # book-price-comparison
 Simple Web Scraper with Django and Scrapy,
-Only Turkish Book names and Turkish book eCommerce websites  (except Amazon)
+Only Turkish books and Turkish book eCommerce websites  (except Amazon)
+<br/>
+<br/>
 Installation
 
 for Windows:

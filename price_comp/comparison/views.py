@@ -13,7 +13,6 @@ class SearchView(View):
         return render(request, "main.html", context)
 
     def post(self, request, *args, **kwargs):
-        print("post data")
         form = SearchForm(request.POST)
         websites = request.POST.getlist("websites")
         q = request.POST.get("query")
@@ -21,15 +20,8 @@ class SearchView(View):
             return redirect("/")
         if form.is_valid():
             raw_data =  asyncio.run(async_request(websites=websites, q=q))
-            print("hello im rawdata")
-            print(raw_data)
-            data = [data["items"] for data in raw_data]
-            print(data)
         else:
             form = SearchForm()
-        print(data)
-        data = sort_by_value(data)
-        
+        data = sort_by_value(raw_data)
         context = {"context":data[1:], "cheapest":data[0], "query":q}
-
         return render(request, "books.html", context)

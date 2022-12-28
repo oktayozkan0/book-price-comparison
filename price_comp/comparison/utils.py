@@ -19,6 +19,7 @@ def get_tasks(session, websites, q):
         tasks.append(session.get("http://localhost:9080/crawl.json?spider_name=%s&start_requests=true&crawl_args={\"query\":\"%s\"}" % (website, q)))
     return tasks
 
+
 @staticmethod
 async def async_request(websites, q):
     results = []
@@ -27,7 +28,5 @@ async def async_request(websites, q):
         responses = await asyncio.gather(*tasks)
         for response in responses:
             data = await response.json()
-            w = web.json_response(data.get("items"))
-            results.extend(w)
+            results.extend(data["items"])
     return results
-

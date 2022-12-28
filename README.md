@@ -30,7 +30,10 @@ open terminal in price_comp/price_comp and then:
 ```
 python manage.py runserver
 ```
-
+for Linux:
+```
+python3 manage.py runserver
+```
 after that, go to http://127.0.0.1:8000 in your browser and try search a book
 <br/>
 I will search "Satranç" which is Turkish translation of Stefan Zweig's The Royal Game

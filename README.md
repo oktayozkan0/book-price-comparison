@@ -35,6 +35,8 @@ I will search "Satranç" which is Turkish translation of Stefan Zweig's The Roya
 
 and here is the results:
 ![image](https://user-images.githubusercontent.com/103560387/209805512-31cdc21c-3f27-45d0-8234-51f070ce77a3.png)
+results are sorting by low to high price
+<br/>
 columns are BOOK TITLE, AUTHOR, PUBLISHER, PROVIDER, PRICE and	WEBSITE.
 <br/>
 By the way, you can go to website with GO button.

@@ -1,0 +1,25 @@
+Date: Wed, 14 Dec 2022 07:39:03 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Ews: KIDEGAIIS01
+X-Xss-Protection: 1; mode=block
+Set-Cookie: AspNetEmosSessionId=2sxnxtmje00jdkoshnae0tz1; path=/; secure; HttpOnly; SameSite=None
+Set-Cookie: istKod=nbjr2yIIkt0rOsYYxSzfzqXlrvJ2lW98CH7hl2UBdr19iu27lARUpS5Ts6hHyAW2me19DmLSlkF+ulCrEmT2TwjZmRTesrgQ66USSI9MYhY=; expires=Thu, 15-Dec-2022 07:39:01 GMT; path=/; secure; HttpOnly; SameSite=None
+Set-Cookie: cache_str=292_0_1_1_0_0_2_0_0_0_0_0; expires=Sat, 09-Dec-2023 07:39:01 GMT; path=/; secure; HttpOnly; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Public-Key-Pins: pin-sha256="base64+primary=="; pin-sha256="base64+backup=="; max-age=5184000; includeSubDomains
+X-Permitted-Cross-Domain-Policies: none
+Cache-Control: no-cache
+X-Varnish: 433086
+Age: 0
+X-Cache: MISS
+X-Frame-Options: SAMEORIGIN
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2B8xsyPLguaPolcwQRcWHWIx704aLdzhWhZax2ZukSXvvsGHhQ7REo3yoG0qx0aO1Egf%2Bu2ioWheOM364yjrI5WBsH%2Bo3rccGp44e3%2FVRpQUuaqNGvjaJ8lB3b1LW"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 779548859e0abaed-MXP
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

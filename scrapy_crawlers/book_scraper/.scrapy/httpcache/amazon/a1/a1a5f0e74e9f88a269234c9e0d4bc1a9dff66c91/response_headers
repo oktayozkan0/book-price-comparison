@@ -1,0 +1,16 @@
+Server: Server
+Content-Type: text/html;charset=UTF-8
+X-Amz-Rid: 72Z98MF11RG3Z5SAZEHV
+Content-Security-Policy: upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/
+X-Content-Type-Options: nosniff
+Accept-Ch: ect,rtt,downlink,device-memory,sec-ch-device-memory,viewport-width,sec-ch-viewport-width,dpr,sec-ch-dpr
+X-Xss-Protection: 1;
+Accept-Ch-Lifetime: 86400
+Cache-Control: no-cache, no-transform
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+Date: Wed, 14 Dec 2022 07:12:06 GMT
+Vary: Accept-Encoding
+Set-Cookie: ubid-acbtr=257-6463699-6502110; Domain=.amazon.com.tr; Expires=Thu, 14-Dec-2023 07:12:06 GMT; Path=/; Secure
+Set-Cookie: tinker-id=delete; Domain=.amazon.com.tr; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/

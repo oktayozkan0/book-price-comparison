@@ -1,0 +1,20 @@
+Content-Type: text/html;charset=UTF-8
+Server: Server
+Date: Tue, 13 Dec 2022 13:22:13 GMT
+X-Amz-Rid: NVS4Z2DDXABFJAVJYHBX
+Set-Cookie: ubid-acbtr=262-5495455-9797818; Domain=.amazon.com.tr; Expires=Wed, 13-Dec-2023 13:22:13 GMT; Path=/; Secure
+Set-Cookie: tinker-id=delete; Domain=.amazon.com.tr; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Accept-Ch: ect,rtt,downlink,device-memory,sec-ch-device-memory,viewport-width,sec-ch-viewport-width,dpr,sec-ch-dpr
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Content-Security-Policy: upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/
+X-Xss-Protection: 1;
+Accept-Ch-Lifetime: 86400
+Cache-Control: no-cache, no-transform
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+Vary: Content-Type,Accept-Encoding,User-Agent
+X-Frame-Options: SAMEORIGIN
+X-Cache: Miss from cloudfront
+Via: 1.1 8002c303d4f2295f77566a349deba122.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: FRA2-C1
+X-Amz-Cf-Id: XUFyX_09-oWVvngtlxNjtOTBW0xXzvsDECGfJ7E-ixdzijkEkHUMNw==

@@ -1,0 +1,25 @@
+Content-Type: text/html;charset=UTF-8
+Server: Server
+Date: Tue, 13 Dec 2022 13:32:39 GMT
+X-Amz-Rid: K936Y9YENG8DP8DVWSSC
+Set-Cookie: session-id=260-8367371-2247750; Domain=.amazon.com.tr; Expires=Wed, 13-Dec-2023 13:32:39 GMT; Path=/; Secure
+Set-Cookie: session-id-time=2082787201l; Domain=.amazon.com.tr; Expires=Wed, 13-Dec-2023 13:32:39 GMT; Path=/; Secure
+Set-Cookie: i18n-prefs=TRY; Domain=.amazon.com.tr; Expires=Wed, 13-Dec-2023 13:32:39 GMT; Path=/
+Set-Cookie: tinker-id=delete; Domain=.amazon.com.tr; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Cache-Control: no-cache
+Accept-Ch-Lifetime: 86400
+Accept-Ch: ect,rtt,downlink,device-memory,sec-ch-device-memory,viewport-width,sec-ch-viewport-width,dpr,sec-ch-dpr
+Content-Encoding: gzip
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/
+Content-Language: tr-TR
+X-Xss-Protection: 1;
+Expires: -1
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+Vary: Content-Type,Accept-Encoding,User-Agent
+X-Frame-Options: SAMEORIGIN
+X-Cache: Miss from cloudfront
+Via: 1.1 59d92388a3a66e5f245f384a437fa024.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: FRA2-C1
+X-Amz-Cf-Id: 0zTNbhiQKV3eXpU-jIdlVI9PlhvbAdPxQJBy-yZzH9Uc8azQxpvAtA==

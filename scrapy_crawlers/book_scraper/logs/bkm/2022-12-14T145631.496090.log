@@ -1,0 +1,45 @@
+2022-12-14 14:56:31 [scrapy] DEBUG: Crawled (200) <GET https://bkm.wawlabs.com/avx_wse?cm=conv&f=True&d=True&q=satran%C3%A7> (referer: None) ['cached']
+2022-12-14 14:56:31 [scrapy] DEBUG: Scraped from <200 https://bkm.wawlabs.com/avx_wse?cm=conv&f=True&d=True&q=satran%C3%A7>
+{'title': 'Satranç', 'author': 'Stefan Zweig', 'price': '9.00', 'publisher': 'İş Bankası Kültür Yayınları', 'image_url': 'https://cdn.bkmkitap.com/Data/B/D11/11552256.png', 'product_url': 'https://bkmkitap.com/satranc-113894', 'provider': 'BKM Kitap'}
+2022-12-14 14:56:31 [scrapy] DEBUG: Scraped from <200 https://bkm.wawlabs.com/avx_wse?cm=conv&f=True&d=True&q=satran%C3%A7>
+{'title': 'Satranç', 'author': 'Stefan Zweig', 'price': '12.10', 'publisher': 'Can Yayınları', 'image_url': 'https://cdn.bkmkitap.com/Data/B/D79/13051377.jpg', 'product_url': 'https://bkmkitap.com/satranc-79363', 'provider': 'BKM Kitap'}
+2022-12-14 14:56:31 [scrapy] DEBUG: Scraped from <200 https://bkm.wawlabs.com/avx_wse?cm=conv&f=True&d=True&q=satran%C3%A7>
+{'title': 'Satranç', 'author': 'Stefan Zweig', 'price': '9.00', 'publisher': 'Panama Yayıncılık', 'image_url': 'https://cdn.bkmkitap.com/Data/B/D57/13082954.jpg', 'product_url': 'https://bkmkitap.com/satranc-57005', 'provider': 'BKM Kitap'}
+2022-12-14 14:56:31 [scrapy] DEBUG: Scraped from <200 https://bkm.wawlabs.com/avx_wse?cm=conv&f=True&d=True&q=satran%C3%A7>
+{'title': 'Satranç', 'author': 'Fehimdar Çiftçi', 'price': '28.14', 'publisher': 'Berikan Yayınları', 'image_url': 'https://cdn.bkmkitap.com/Data/B/D74/11561018.jpg', 'product_url': 'https://bkmkitap.com/satranc-74445', 'provider': 'BKM Kitap'}
+2022-12-14 14:56:31 [scrapy] DEBUG: Scraped from <200 https://bkm.wawlabs.com/avx_wse?cm=conv&f=True&d=True&q=satran%C3%A7>
+{'title': 'Satranç', 'author': 'Stefan Zweig', 'price': '14.40', 'publisher': 'Doğu Batı Yayınları', 'image_url': 'https://cdn.bkmkitap.com/Data/B/D88/11532564.jpg', 'product_url': 'https://bkmkitap.com/satranc-88265', 'provider': 'BKM Kitap'}
+2022-12-14 14:56:31 [scrapy] DEBUG: Scraped from <200 https://bkm.wawlabs.com/avx_wse?cm=conv&f=True&d=True&q=satran%C3%A7>
+{'title': 'Satranç', 'author': 'Stefan Zweig', 'price': '11.00', 'publisher': 'İthaki Yayınları', 'image_url': 'https://cdn.bkmkitap.com/Data/B/D10/11618037.jpg', 'product_url': 'https://bkmkitap.com/satranc-106001', 'provider': 'BKM Kitap'}
+2022-12-14 14:56:31 [scrapy] DEBUG: Scraped from <200 https://bkm.wawlabs.com/avx_wse?cm=conv&f=True&d=True&q=satran%C3%A7>
+{'title': 'Satranç', 'author': 'Stefan Zweig', 'price': '13.60', 'publisher': 'Akıl Çelen Kitaplar', 'image_url': 'https://cdn.bkmkitap.com/Data/B/D12/11591303.jpg', 'product_url': 'https://bkmkitap.com/satranc-129283', 'provider': 'BKM Kitap'}
+2022-12-14 14:56:31 [scrapy] DEBUG: Scraped from <200 https://bkm.wawlabs.com/avx_wse?cm=conv&f=True&d=True&q=satran%C3%A7>
+{'title': 'Satranç', 'author': 'Stefan Zweig', 'price': '18.00', 'publisher': 'Everest Yayınları', 'image_url': 'https://cdn.bkmkitap.com/Data/B/D13/11632641.jpg', 'product_url': 'https://bkmkitap.com/satranc-130793', 'provider': 'BKM Kitap'}
+2022-12-14 14:56:31 [scrapy] DEBUG: Scraped from <200 https://bkm.wawlabs.com/avx_wse?cm=conv&f=True&d=True&q=satran%C3%A7>
+{'title': 'Satranç', 'author': 'Stefan Zweig', 'price': '14.25', 'publisher': 'Librum Kitap', 'image_url': 'https://cdn.bkmkitap.com/Data/B/D13/7861852.jpg', 'product_url': 'https://bkmkitap.com/satranc-137612', 'provider': 'BKM Kitap'}
+2022-12-14 14:56:31 [scrapy] DEBUG: Scraped from <200 https://bkm.wawlabs.com/avx_wse?cm=conv&f=True&d=True&q=satran%C3%A7>
+{'title': 'Satranç', 'author': 'Stefan Zweig', 'price': '16.50', 'publisher': 'Remzi Kitabevi', 'image_url': 'https://cdn.bkmkitap.com/Data/B/D13/11575424.jpg', 'product_url': 'https://bkmkitap.com/satranc-139577', 'provider': 'BKM Kitap'}
+2022-12-14 14:56:31 [scrapy] INFO: Closing spider (finished)
+2022-12-14 14:56:31 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 259,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 10060,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'elapsed_time_seconds': 0.21894,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2022, 12, 14, 11, 56, 31, 726025),
+ 'httpcache/hit': 1,
+ 'httpcompression/response_bytes': 84794,
+ 'httpcompression/response_count': 1,
+ 'item_scraped_count': 10,
+ 'log_count/DEBUG': 24,
+ 'log_count/INFO': 13,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2022, 12, 14, 11, 56, 31, 507085)}
+2022-12-14 14:56:31 [scrapy] INFO: Spider closed (finished)

@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+<!-- 
+TextInput
+TextInput
+CheckboxSelectMultiple
+ -->
+
+{% block content %}
+<div class="grid h-screen place-items-center">
+    <form method="POST">
+        {% csrf_token %}
+        {% for field in form %}
+        <p class="text-sky-400/100">{{ field.label_tag}} </p>
+        {{ field }}
+        {% endfor %}
+        <input type="submit"
+            class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">
+    </form>
+</div>
+
+{% endblock content %}

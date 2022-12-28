@@ -1,0 +1,56 @@
+2022-12-14 14:44:42 [scrapy] DEBUG: Crawled (200) <GET https://www.amazon.com.tr/s?k=satran%C3%A7&i=stripbooks> (referer: None) ['cached']
+2022-12-14 14:44:43 [scrapy] DEBUG: Crawled (200) <GET https://www.amazon.com.tr/Satran%C3%A7-Kamp%C4%B1-3-Igor-Sukhin/dp/605859829X/ref=sr_1_1?keywords=satran%C3%A7&qid=1671018293&s=books&sr=1-1> (referer: https://www.amazon.com.tr/s?k=satran%C3%A7&i=stripbooks) ['cached']
+2022-12-14 14:44:43 [scrapy] DEBUG: Crawled (200) <GET https://www.amazon.com.tr/%C3%87ocuklar-%C4%B0%C3%A7in-Satran%C3%A7-Uygulama-Kitab%C4%B1/dp/6053414476/ref=sr_1_10?keywords=satran%C3%A7&qid=1671018293&s=books&sr=1-10> (referer: https://www.amazon.com.tr/s?k=satran%C3%A7&i=stripbooks) ['cached']
+2022-12-14 14:44:43 [scrapy] DEBUG: Crawled (200) <GET https://www.amazon.com.tr/%C4%B0lk-Satran%C3%A7-Kitab%C4%B1m-Patricia-Geis/dp/6053416673/ref=sr_1_9?keywords=satran%C3%A7&qid=1671018293&s=books&sr=1-9> (referer: https://www.amazon.com.tr/s?k=satran%C3%A7&i=stripbooks) ['cached']
+2022-12-14 14:44:43 [scrapy] DEBUG: Crawled (200) <GET https://www.amazon.com.tr/YEN%C4%B0-BA%C5%9ELAYANLAR-%C4%B0%C3%87%C4%B0N-SATRAN%C3%87-%C4%B0NTER-AD/dp/9944882712/ref=sr_1_8?keywords=satran%C3%A7&qid=1671018293&s=books&sr=1-8> (referer: https://www.amazon.com.tr/s?k=satran%C3%A7&i=stripbooks) ['cached']
+2022-12-14 14:44:43 [scrapy] DEBUG: Crawled (200) <GET https://www.amazon.com.tr/ORTA-D%C3%9CZEY-SATRAN%C3%87-KAYNAK-K%C4%B0TABI/dp/9944880264/ref=sr_1_7?keywords=satran%C3%A7&qid=1671018293&s=books&sr=1-7> (referer: https://www.amazon.com.tr/s?k=satran%C3%A7&i=stripbooks) ['cached']
+2022-12-14 14:44:43 [scrapy] DEBUG: Crawled (200) <GET https://www.amazon.com.tr/Sedef-Okey-Eser-Kadifeli-Satran%C3%A7/dp/B07CSTWGQ9/ref=sr_1_6?keywords=satran%C3%A7&qid=1671018293&s=books&sr=1-6> (referer: https://www.amazon.com.tr/s?k=satran%C3%A7&i=stripbooks) ['cached']
+2022-12-14 14:44:43 [scrapy] DEBUG: Scraped from <200 https://www.amazon.com.tr/Satran%C3%A7-Kamp%C4%B1-3-Igor-Sukhin/dp/605859829X/ref=sr_1_1?keywords=satran%C3%A7&qid=1671018293&s=books&sr=1-1>
+{'provider': 'AMAZON', 'title': 'Satranç Kampı -3', 'price': 100.0, 'author': 'Igor Sukhin', 'product_url': 'https://www.amazon.com.tr/Satran%C3%A7-Kamp%C4%B1-3-Igor-Sukhin/dp/605859829X', 'image_url': 'https://m.media-amazon.com/images/I/41T90sM+6wL.jpg', 'publisher': 'Analiz'}
+2022-12-14 14:44:43 [scrapy] DEBUG: Crawled (200) <GET https://www.amazon.com.tr/SATRAN%C3%87TA-KAZANDIRAN-OYUNLAR-Kolektif/dp/9944884936/ref=sr_1_5?keywords=satran%C3%A7&qid=1671018293&s=books&sr=1-5> (referer: https://www.amazon.com.tr/s?k=satran%C3%A7&i=stripbooks) ['cached']
+2022-12-14 14:44:43 [scrapy] DEBUG: Scraped from <200 https://www.amazon.com.tr/%C3%87ocuklar-%C4%B0%C3%A7in-Satran%C3%A7-Uygulama-Kitab%C4%B1/dp/6053414476/ref=sr_1_10?keywords=satran%C3%A7&qid=1671018293&s=books&sr=1-10>
+{'provider': 'AMAZON', 'title': 'Çocuklar İçin Satranç Uygulama Kitabı', 'price': 27.27, 'author': 'Sabrina Chevannes', 'product_url': 'https://www.amazon.com.tr/%C3%87ocuklar-%C4%B0%C3%A7in-Satran%C3%A7-Uygulama-Kitab%C4%B1/dp/6053414476', 'image_url': 'https://m.media-amazon.com/images/I/41rJZ2sInjL.jpg', 'publisher': '1001 Çiçek Kitaplar'}
+2022-12-14 14:44:43 [scrapy] DEBUG: Scraped from <200 https://www.amazon.com.tr/YEN%C4%B0-BA%C5%9ELAYANLAR-%C4%B0%C3%87%C4%B0N-SATRAN%C3%87-%C4%B0NTER-AD/dp/9944882712/ref=sr_1_8?keywords=satran%C3%A7&qid=1671018293&s=books&sr=1-8>
+{'provider': 'AMAZON', 'title': 'Yeni Başlayanlar İçin Satranç', 'price': 15.38, 'author': 'Harriet Castor', 'product_url': 'https://www.amazon.com.tr/YEN%C4%B0-BA%C5%9ELAYANLAR-%C4%B0%C3%87%C4%B0N-SATRAN%C3%87-%C4%B0NTER-AD/dp/9944882712', 'image_url': 'https://m.media-amazon.com/images/I/518I5o-2B6S.jpg', 'publisher': 'İş Bankası Kültür Yayınları'}
+2022-12-14 14:44:43 [scrapy] DEBUG: Scraped from <200 https://www.amazon.com.tr/%C4%B0lk-Satran%C3%A7-Kitab%C4%B1m-Patricia-Geis/dp/6053416673/ref=sr_1_9?keywords=satran%C3%A7&qid=1671018293&s=books&sr=1-9>
+{'provider': 'AMAZON', 'title': 'İlk Satranç Kitabım', 'price': 22.21, 'author': 'Patricia Geis', 'product_url': 'https://www.amazon.com.tr/%C4%B0lk-Satran%C3%A7-Kitab%C4%B1m-Patricia-Geis/dp/6053416673', 'image_url': 'https://m.media-amazon.com/images/I/417EIEpTTmL.jpg', 'publisher': '1001 Çiçek Kitaplar'}
+2022-12-14 14:44:43 [scrapy] DEBUG: Crawled (200) <GET https://www.amazon.com.tr/%C3%87ocuklar-%C4%B0%C3%A7in-Satran%C3%A7-Sabrina-Chevannes/dp/6053418935/ref=sr_1_4?keywords=satran%C3%A7&qid=1671018293&s=books&sr=1-4> (referer: https://www.amazon.com.tr/s?k=satran%C3%A7&i=stripbooks) ['cached']
+2022-12-14 14:44:43 [scrapy] DEBUG: Crawled (200) <GET https://www.amazon.com.tr/John-Carter-5-Mars-Satranc%C4%B1/dp/6257599741/ref=sr_1_3?keywords=satran%C3%A7&qid=1671018293&s=books&sr=1-3> (referer: https://www.amazon.com.tr/s?k=satran%C3%A7&i=stripbooks) ['cached']
+2022-12-14 14:44:43 [scrapy] DEBUG: Crawled (200) <GET https://www.amazon.com.tr/Satran%C3%A7-Stefan-Zweig/dp/6053606111/ref=sr_1_2?keywords=satran%C3%A7&qid=1671018293&s=books&sr=1-2> (referer: https://www.amazon.com.tr/s?k=satran%C3%A7&i=stripbooks) ['cached']
+2022-12-14 14:44:43 [scrapy] DEBUG: Scraped from <200 https://www.amazon.com.tr/ORTA-D%C3%9CZEY-SATRAN%C3%87-KAYNAK-K%C4%B0TABI/dp/9944880264/ref=sr_1_7?keywords=satran%C3%A7&qid=1671018293&s=books&sr=1-7>
+{'provider': 'AMAZON', 'title': 'Orta Düzey Satranç Kaynak Kitabı', 'price': 24.8, 'author': 'Olgun Kulaç', 'product_url': 'https://www.amazon.com.tr/ORTA-D%C3%9CZEY-SATRAN%C3%87-KAYNAK-K%C4%B0TABI/dp/9944880264', 'image_url': 'https://m.media-amazon.com/images/I/41IPutDpiJL.jpg', 'publisher': 'İş Bankası Kültür Yayınları'}
+2022-12-14 14:44:43 [scrapy] DEBUG: Scraped from <200 https://www.amazon.com.tr/Sedef-Okey-Eser-Kadifeli-Satran%C3%A7/dp/B07CSTWGQ9/ref=sr_1_6?keywords=satran%C3%A7&qid=1671018293&s=books&sr=1-6>
+{'provider': 'AMAZON', 'title': 'Sedef Okey Kadifeli Satranç', 'price': 217.9, 'author': None, 'product_url': 'https://www.amazon.com.tr/Sedef-Okey-Eser-Kadifeli-Satran%C3%A7/dp/B07CSTWGQ9', 'image_url': 'https://m.media-amazon.com/images/I/31Bc7bpdnZL.jpg', 'publisher': None}
+2022-12-14 14:44:43 [scrapy] DEBUG: Scraped from <200 https://www.amazon.com.tr/SATRAN%C3%87TA-KAZANDIRAN-OYUNLAR-Kolektif/dp/9944884936/ref=sr_1_5?keywords=satran%C3%A7&qid=1671018293&s=books&sr=1-5>
+{'provider': 'AMAZON', 'title': 'Satrançta Kazandıran Oyun Sonları', 'price': 29.97, 'author': 'Yasser Seirawan', 'product_url': 'https://www.amazon.com.tr/SATRAN%C3%87TA-KAZANDIRAN-OYUNLAR-Kolektif/dp/9944884936', 'image_url': 'https://m.media-amazon.com/images/I/310yHi1wlLL.jpg', 'publisher': 'İş Bankası Kültür Yayınları'}
+2022-12-14 14:44:43 [scrapy] DEBUG: Scraped from <200 https://www.amazon.com.tr/%C3%87ocuklar-%C4%B0%C3%A7in-Satran%C3%A7-Sabrina-Chevannes/dp/6053418935/ref=sr_1_4?keywords=satran%C3%A7&qid=1671018293&s=books&sr=1-4>
+{'provider': 'AMAZON', 'title': 'Çocuklar İçin Satranç', 'price': 71.43, 'author': 'Sabrina Chevannes', 'product_url': 'https://www.amazon.com.tr/%C3%87ocuklar-%C4%B0%C3%A7in-Satran%C3%A7-Sabrina-Chevannes/dp/6053418935', 'image_url': 'https://m.media-amazon.com/images/I/41c5uvoECzL.jpg', 'publisher': '1001 Çiçek Kitaplar'}
+2022-12-14 14:44:43 [scrapy] DEBUG: Scraped from <200 https://www.amazon.com.tr/John-Carter-5-Mars-Satranc%C4%B1/dp/6257599741/ref=sr_1_3?keywords=satran%C3%A7&qid=1671018293&s=books&sr=1-3>
+{'provider': 'AMAZON', 'title': 'John Carter 5: Mars Satrancı', 'price': 79.5, 'author': 'Edgar Rice Burroughs', 'product_url': 'https://www.amazon.com.tr/John-Carter-5-Mars-Satranc%C4%B1/dp/6257599741', 'image_url': 'https://m.media-amazon.com/images/I/41FYPD2fL0L.jpg', 'publisher': 'Fihrist'}
+2022-12-14 14:44:43 [scrapy] DEBUG: Scraped from <200 https://www.amazon.com.tr/Satran%C3%A7-Stefan-Zweig/dp/6053606111/ref=sr_1_2?keywords=satran%C3%A7&qid=1671018293&s=books&sr=1-2>
+{'provider': 'AMAZON', 'title': 'Satranç: Modern Klasikler Serisi', 'price': 8.54, 'author': 'Stefan Zweig', 'product_url': 'https://www.amazon.com.tr/Satran%C3%A7-Stefan-Zweig/dp/6053606111', 'image_url': 'https://m.media-amazon.com/images/I/41KXYhApcNS.jpg', 'publisher': 'İş Bankası Kültür Yayınları'}
+2022-12-14 14:44:43 [scrapy] INFO: Closing spider (finished)
+2022-12-14 14:44:43 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 6438,
+ 'downloader/request_count': 11,
+ 'downloader/request_method_count/GET': 11,
+ 'downloader/response_bytes': 2302988,
+ 'downloader/response_count': 11,
+ 'downloader/response_status_count/200': 11,
+ 'elapsed_time_seconds': 0.592591,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2022, 12, 14, 11, 44, 43, 498867),
+ 'httpcache/hit': 11,
+ 'httpcompression/response_bytes': 10211255,
+ 'httpcompression/response_count': 11,
+ 'item_scraped_count': 10,
+ 'log_count/DEBUG': 44,
+ 'log_count/INFO': 13,
+ 'request_depth_max': 1,
+ 'response_received_count': 11,
+ 'scheduler/dequeued': 11,
+ 'scheduler/dequeued/memory': 11,
+ 'scheduler/enqueued': 11,
+ 'scheduler/enqueued/memory': 11,
+ 'start_time': datetime.datetime(2022, 12, 14, 11, 44, 42, 906276)}
+2022-12-14 14:44:43 [scrapy] INFO: Spider closed (finished)

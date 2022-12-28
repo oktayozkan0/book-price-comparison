@@ -1,0 +1,56 @@
+2022-12-14 11:44:01 [scrapy] DEBUG: Crawled (200) <GET https://kidega.com/arama/nutuk/> (referer: None) ['cached']
+2022-12-14 11:44:01 [scrapy] DEBUG: Crawled (200) <GET https://kidega.com/kitap/nutuk-055187/detay/> (referer: https://kidega.com/arama/nutuk/) ['cached']
+2022-12-14 11:44:01 [scrapy] DEBUG: Crawled (200) <GET https://kidega.com/kitap/nutuk-389288/> (referer: https://kidega.com/arama/nutuk/) ['cached']
+2022-12-14 11:44:01 [scrapy] DEBUG: Crawled (200) <GET https://kidega.com/kitap/nutuk-117340/detay/> (referer: https://kidega.com/arama/nutuk/) ['cached']
+2022-12-14 11:44:01 [scrapy] DEBUG: Crawled (200) <GET https://kidega.com/kitap/nutuk-282958/detay/> (referer: https://kidega.com/arama/nutuk/) ['cached']
+2022-12-14 11:44:01 [scrapy] DEBUG: Crawled (200) <GET https://kidega.com/kitap/nutuk-214875/detay/> (referer: https://kidega.com/arama/nutuk/) ['cached']
+2022-12-14 11:44:01 [scrapy] DEBUG: Crawled (200) <GET https://kidega.com/kitap/nutuk-087292/detay/> (referer: https://kidega.com/arama/nutuk/) ['cached']
+2022-12-14 11:44:01 [scrapy] DEBUG: Crawled (200) <GET https://kidega.com/kitap/nutuk-097768/detay/> (referer: https://kidega.com/arama/nutuk/) ['cached']
+2022-12-14 11:44:01 [scrapy] DEBUG: Crawled (200) <GET https://kidega.com/kitap/nutuk-053099/detay/> (referer: https://kidega.com/arama/nutuk/) ['cached']
+2022-12-14 11:44:01 [scrapy] DEBUG: Crawled (200) <GET https://kidega.com/kitap/nutuk-368588/detay/> (referer: https://kidega.com/arama/nutuk/) ['cached']
+2022-12-14 11:44:01 [scrapy] DEBUG: Crawled (200) <GET https://kidega.com/kitap/nutuk-293138/detay/> (referer: https://kidega.com/arama/nutuk/) ['cached']
+2022-12-14 11:44:01 [scrapy] DEBUG: Scraped from <200 https://kidega.com/kitap/nutuk-055187/detay/>
+{'provider': 'KIDEGA', 'title': 'Nutuk', 'price': '7.50', 'author': 'Mustafa Kemal Atatürk', 'product_url': 'https://kidega.com/kitap/nutuk-055187/detay/', 'image_url': 'https://img1-kidega.mncdn.com/mnresize/600/923/UPLOAD/urunler/9789754685596.jpg', 'publisher': 'Say Yayınları', 'q': 'nutuk'}
+2022-12-14 11:44:01 [scrapy] DEBUG: Scraped from <200 https://kidega.com/kitap/nutuk-389288/>
+{'provider': 'KIDEGA', 'title': 'Nutuk', 'price': '12.00', 'author': 'Mustafa Kemal Atatürk', 'product_url': 'https://kidega.com/kitap/nutuk-389288/', 'image_url': 'https://img1-kidega.mncdn.com/mnresize/600/923/UPLOAD/urunler/9786254056888.jpg', 'publisher': 'İş Bankası Kültür Yayınları', 'q': 'nutuk'}
+2022-12-14 11:44:01 [scrapy] DEBUG: Scraped from <200 https://kidega.com/kitap/nutuk-117340/detay/>
+{'provider': 'KIDEGA', 'title': 'Nutuk', 'price': '30.00', 'author': 'Mustafa Kemal Atatürk', 'product_url': 'https://kidega.com/kitap/nutuk-117340/detay/', 'image_url': 'https://img1-kidega.mncdn.com/mnresize/600/923/UPLOAD/urunler/9789752206960.jpg', 'publisher': 'Bilgi Yayınevi', 'q': 'nutuk'}
+2022-12-14 11:44:01 [scrapy] DEBUG: Scraped from <200 https://kidega.com/kitap/nutuk-282958/detay/>
+{'provider': 'KIDEGA', 'title': 'Nutuk', 'price': '59.50', 'author': 'Mustafa Kemal Atatürk', 'product_url': 'https://kidega.com/kitap/nutuk-282958/detay/', 'image_url': 'https://img1-kidega.mncdn.com/mnresize/600/923/UPLOAD/urunler/9786059840828.jpg', 'publisher': 'En Kitap', 'q': 'nutuk'}
+2022-12-14 11:44:01 [scrapy] DEBUG: Scraped from <200 https://kidega.com/kitap/nutuk-087292/detay/>
+{'provider': 'KIDEGA', 'title': 'Nutuk', 'price': '110.00', 'author': 'Mustafa Kemal Atatürk', 'product_url': 'https://kidega.com/kitap/nutuk-087292/detay/', 'image_url': 'https://img1-kidega.mncdn.com/mnresize/600/923/UPLOAD/urunler/9786055907723.jpg', 'publisher': 'Nilüfer Yayınları', 'q': 'nutuk'}
+2022-12-14 11:44:01 [scrapy] DEBUG: Scraped from <200 https://kidega.com/kitap/nutuk-214875/detay/>
+{'provider': 'KIDEGA', 'title': 'Nutuk', 'price': '84.00', 'author': 'Mustafa Kemal Atatürk', 'product_url': 'https://kidega.com/kitap/nutuk-214875/detay/', 'image_url': 'https://img1-kidega.mncdn.com/mnresize/600/923/UPLOAD/urunler/9786052398173.jpg', 'publisher': 'Ren Kitap - Özel Ürün', 'q': 'nutuk'}
+2022-12-14 11:44:01 [scrapy] DEBUG: Scraped from <200 https://kidega.com/kitap/nutuk-097768/detay/>
+{'provider': 'KIDEGA', 'title': 'Nutuk', 'price': '30.00', 'author': 'Mustafa Kemal Atatürk', 'product_url': 'https://kidega.com/kitap/nutuk-097768/detay/', 'image_url': 'https://img1-kidega.mncdn.com/mnresize/600/923/UPLOAD/urunler/9789756195215.jpg', 'publisher': 'Karanfil Yayınları', 'q': 'nutuk'}
+2022-12-14 11:44:01 [scrapy] DEBUG: Scraped from <200 https://kidega.com/kitap/nutuk-053099/detay/>
+{'provider': 'KIDEGA', 'title': 'Nutuk', 'price': '300.00', 'author': 'Mustafa Kemal Atatürk', 'product_url': 'https://kidega.com/kitap/nutuk-053099/detay/', 'image_url': 'https://img1-kidega.mncdn.com/mnresize/600/923/UPLOAD/urunler/9789754451573.jpg', 'publisher': 'Toker Yayınları', 'q': 'nutuk'}
+2022-12-14 11:44:01 [scrapy] DEBUG: Scraped from <200 https://kidega.com/kitap/nutuk-368588/detay/>
+{'provider': 'KIDEGA', 'title': 'Nutuk', 'price': '70.00', 'author': 'Mustafa Kemal Atatürk', 'product_url': 'https://kidega.com/kitap/nutuk-368588/detay/', 'image_url': 'https://img1-kidega.mncdn.com/mnresize/600/923/UPLOAD/urunler/9786052114445.jpg', 'publisher': 'Ayata Kitap', 'q': 'nutuk'}
+2022-12-14 11:44:01 [scrapy] DEBUG: Scraped from <200 https://kidega.com/kitap/nutuk-293138/detay/>
+{'provider': 'KIDEGA', 'title': 'Nutuk', 'price': '75.00', 'author': 'Mustafa Kemal Atatürk', 'product_url': 'https://kidega.com/kitap/nutuk-293138/detay/', 'image_url': 'https://img1-kidega.mncdn.com/mnresize/600/923/UPLOAD/urunler/9786052050415.jpg', 'publisher': 'Dokuz Yayınları', 'q': 'nutuk'}
+2022-12-14 11:44:02 [scrapy] INFO: Closing spider (finished)
+2022-12-14 11:44:02 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 6056,
+ 'downloader/request_count': 11,
+ 'downloader/request_method_count/GET': 11,
+ 'downloader/response_bytes': 1271168,
+ 'downloader/response_count': 11,
+ 'downloader/response_status_count/200': 11,
+ 'elapsed_time_seconds': 0.790993,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2022, 12, 14, 8, 44, 2, 63177),
+ 'httpcache/hit': 11,
+ 'httpcompression/response_bytes': 2555671,
+ 'httpcompression/response_count': 11,
+ 'item_scraped_count': 10,
+ 'log_count/DEBUG': 77,
+ 'log_count/INFO': 22,
+ 'request_depth_max': 1,
+ 'response_received_count': 11,
+ 'scheduler/dequeued': 11,
+ 'scheduler/dequeued/memory': 11,
+ 'scheduler/enqueued': 11,
+ 'scheduler/enqueued/memory': 11,
+ 'start_time': datetime.datetime(2022, 12, 14, 8, 44, 1, 272184)}
+2022-12-14 11:44:02 [scrapy] INFO: Spider closed (finished)

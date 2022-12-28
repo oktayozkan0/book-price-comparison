@@ -1,0 +1,56 @@
+2022-12-14 14:42:46 [scrapy] DEBUG: Crawled (200) <GET https://www.idefix.com/Search?ActiveCategoryId=11693&MainCategoryId=0&Q=budala&redirect=search&Page=1> (referer: None) ['cached']
+2022-12-14 14:42:46 [scrapy] DEBUG: Crawled (200) <GET https://www.idefix.com/kitap/budala/edebiyat/roman/dunya-klasik/urunno=0001693479001> (referer: https://www.idefix.com/Search?ActiveCategoryId=11693&MainCategoryId=0&Q=budala&redirect=search&Page=1) ['cached']
+2022-12-14 14:42:46 [scrapy] DEBUG: Crawled (200) <GET https://www.idefix.com/kitap/budala/edebiyat/roman/dunya-klasik/urunno=0000000524932> (referer: https://www.idefix.com/Search?ActiveCategoryId=11693&MainCategoryId=0&Q=budala&redirect=search&Page=1) ['cached']
+2022-12-14 14:42:46 [scrapy] DEBUG: Crawled (200) <GET https://www.idefix.com/kitap/budala/edebiyat/roman/dunya-klasik/urunno=0001954125001> (referer: https://www.idefix.com/Search?ActiveCategoryId=11693&MainCategoryId=0&Q=budala&redirect=search&Page=1) ['cached']
+2022-12-14 14:42:46 [scrapy] DEBUG: Crawled (200) <GET https://www.idefix.com/kitap/budala-clz/edebiyat/roman/dunya-klasik/urunno=0000000383275> (referer: https://www.idefix.com/Search?ActiveCategoryId=11693&MainCategoryId=0&Q=budala&redirect=search&Page=1) ['cached']
+2022-12-14 14:42:46 [scrapy] DEBUG: Crawled (200) <GET https://www.idefix.com/kitap/budala-clz/edebiyat/roman/dunya-klasik/urunno=0000000629177> (referer: https://www.idefix.com/Search?ActiveCategoryId=11693&MainCategoryId=0&Q=budala&redirect=search&Page=1) ['cached']
+2022-12-14 14:42:46 [scrapy] DEBUG: Crawled (200) <GET https://www.idefix.com/kitap/budala/elif-batuman/edebiyat/roman/dunya-roman/urunno=0001837862001> (referer: https://www.idefix.com/Search?ActiveCategoryId=11693&MainCategoryId=0&Q=budala&redirect=search&Page=1) ['cached']
+2022-12-14 14:42:46 [scrapy] DEBUG: Crawled (200) <GET https://www.idefix.com/kitap/budala/fehim-%C4%B1slam/edebiyat/roman/turkiye-roman/urunno=0000000665027> (referer: https://www.idefix.com/Search?ActiveCategoryId=11693&MainCategoryId=0&Q=budala&redirect=search&Page=1) ['cached']
+2022-12-14 14:42:46 [scrapy] DEBUG: Crawled (200) <GET https://www.idefix.com/kitap/budala/edebiyat/roman/dunya-klasik/urunno=0000000524933> (referer: https://www.idefix.com/Search?ActiveCategoryId=11693&MainCategoryId=0&Q=budala&redirect=search&Page=1) ['cached']
+2022-12-14 14:42:46 [scrapy] DEBUG: Crawled (200) <GET https://www.idefix.com/kitap/budala-oda/fyodor-mihailovic-dostoyevski/edebiyat/roman/dunya-klasik/urunno=0000000023997> (referer: https://www.idefix.com/Search?ActiveCategoryId=11693&MainCategoryId=0&Q=budala&redirect=search&Page=1) ['cached']
+2022-12-14 14:42:46 [scrapy] DEBUG: Crawled (200) <GET https://www.idefix.com/kitap/budala/fyodor-mihaylovic-dostoyevski/edebiyat/roman/dunya-roman/urunno=0001886775001> (referer: https://www.idefix.com/Search?ActiveCategoryId=11693&MainCategoryId=0&Q=budala&redirect=search&Page=1) ['cached']
+2022-12-14 14:42:46 [scrapy] DEBUG: Scraped from <200 https://www.idefix.com/kitap/budala/edebiyat/roman/dunya-klasik/urunno=0001693479001>
+{'provider': 'IDEFIX', 'title': 'Budala', 'price': '70.00', 'author': 'Fyodor Mihayloviç Dostoyevski', 'product_url': 'https://www.idefix.com/kitap/budala/edebiyat/roman/dunya-klasik/urunno=0001693479001', 'image_url': 'https://i.idefix.com/cache/500x400-0/originals/0001693479001-1.jpg', 'publisher': 'Öteki Yayınevi'}
+2022-12-14 14:42:46 [scrapy] DEBUG: Scraped from <200 https://www.idefix.com/kitap/budala/edebiyat/roman/dunya-klasik/urunno=0000000524932>
+{'provider': 'IDEFIX', 'title': 'Budala', 'price': '37.50', 'author': 'Fyodor Mihayloviç Dostoyevski', 'product_url': 'https://www.idefix.com/kitap/budala/edebiyat/roman/dunya-klasik/urunno=0000000524932', 'image_url': 'https://i.idefix.com/cache/500x400-0/originals/0000000524932-1.jpg', 'publisher': 'Anonim Yayınları'}
+2022-12-14 14:42:46 [scrapy] DEBUG: Scraped from <200 https://www.idefix.com/kitap/budala/edebiyat/roman/dunya-klasik/urunno=0001954125001>
+{'provider': 'IDEFIX', 'title': 'Budala', 'price': '34.40', 'author': 'Fyodor Mihayloviç Dostoyevski', 'product_url': 'https://www.idefix.com/kitap/budala/edebiyat/roman/dunya-klasik/urunno=0001954125001', 'image_url': 'https://i.idefix.com/cache/500x400-0/originals/0001954125001-1.jpg', 'publisher': 'Ema Klasik Yayınları'}
+2022-12-14 14:42:46 [scrapy] DEBUG: Scraped from <200 https://www.idefix.com/kitap/budala-clz/edebiyat/roman/dunya-klasik/urunno=0000000383275>
+{'provider': 'IDEFIX', 'title': 'Budala', 'price': '72.45', 'author': 'Fyodor Mihayloviç Dostoyevski', 'product_url': 'https://www.idefix.com/kitap/budala-clz/edebiyat/roman/dunya-klasik/urunno=0000000383275', 'image_url': 'https://i.idefix.com/cache/500x400-0/originals/0000000383275-1.jpg', 'publisher': 'Everest Yayınları'}
+2022-12-14 14:42:46 [scrapy] DEBUG: Scraped from <200 https://www.idefix.com/kitap/budala-clz/edebiyat/roman/dunya-klasik/urunno=0000000629177>
+{'provider': 'IDEFIX', 'title': 'Budala', 'price': '71.40', 'author': 'Fyodor Mihayloviç Dostoyevski', 'product_url': 'https://www.idefix.com/kitap/budala-clz/edebiyat/roman/dunya-klasik/urunno=0000000629177', 'image_url': 'https://i.idefix.com/cache/500x400-0/originals/0000000629177-1.jpg', 'publisher': 'İletişim Yayıncılık'}
+2022-12-14 14:42:46 [scrapy] DEBUG: Scraped from <200 https://www.idefix.com/kitap/budala/elif-batuman/edebiyat/roman/dunya-roman/urunno=0001837862001>
+{'provider': 'IDEFIX', 'title': 'Budala', 'price': '77.00', 'author': 'Elif Batuman', 'product_url': 'https://www.idefix.com/kitap/budala/elif-batuman/edebiyat/roman/dunya-roman/urunno=0001837862001', 'image_url': 'https://i.idefix.com/cache/500x400-0/originals/0001837862001-1.jpg', 'publisher': 'İletişim Yayıncılık'}
+2022-12-14 14:42:46 [scrapy] DEBUG: Scraped from <200 https://www.idefix.com/kitap/budala/fehim-%C4%B1slam/edebiyat/roman/turkiye-roman/urunno=0000000665027>
+{'provider': 'IDEFIX', 'title': 'Budala', 'price': '6.05', 'author': 'Fehim İslam', 'product_url': 'https://www.idefix.com/kitap/budala/fehim-%C4%B1slam/edebiyat/roman/turkiye-roman/urunno=0000000665027', 'image_url': 'https://i.idefix.com/cache/500x400-0/originals/0000000665027-1.jpg', 'publisher': 'İkinci Adam Yayınları'}
+2022-12-14 14:42:46 [scrapy] DEBUG: Scraped from <200 https://www.idefix.com/kitap/budala/edebiyat/roman/dunya-klasik/urunno=0000000524933>
+{'provider': 'IDEFIX', 'title': 'Budala', 'price': '49.00', 'author': 'Fyodor Mihayloviç Dostoyevski', 'product_url': 'https://www.idefix.com/kitap/budala/edebiyat/roman/dunya-klasik/urunno=0000000524933', 'image_url': 'https://i.idefix.com/cache/500x400-0/originals/0000000524933-1.jpg', 'publisher': 'Şule Yayınları'}
+2022-12-14 14:42:46 [scrapy] DEBUG: Scraped from <200 https://www.idefix.com/kitap/budala/fyodor-mihaylovic-dostoyevski/edebiyat/roman/dunya-roman/urunno=0001886775001>
+{'provider': 'IDEFIX', 'title': 'Budala', 'price': '70.00', 'author': 'Fyodor Mihayloviç Dostoyevski', 'product_url': 'https://www.idefix.com/kitap/budala/fyodor-mihaylovic-dostoyevski/edebiyat/roman/dunya-roman/urunno=0001886775001', 'image_url': 'https://i.idefix.com/cache/500x400-0/originals/0001886775001-1.jpg', 'publisher': 'İthaki Yayınları'}
+2022-12-14 14:42:46 [scrapy] DEBUG: Scraped from <200 https://www.idefix.com/kitap/budala-oda/fyodor-mihailovic-dostoyevski/edebiyat/roman/dunya-klasik/urunno=0000000023997>
+{'provider': 'IDEFIX', 'title': 'Budala-Oda', 'price': '58.50', 'author': None, 'product_url': 'https://www.idefix.com/kitap/budala-oda/fyodor-mihailovic-dostoyevski/edebiyat/roman/dunya-klasik/urunno=0000000023997', 'image_url': 'https://i.idefix.com/cache/500x400-0/originals/0000000023997-1.jpg', 'publisher': 'Oda Yayınları'}
+2022-12-14 14:42:46 [scrapy] INFO: Closing spider (finished)
+2022-12-14 14:42:46 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 5843,
+ 'downloader/request_count': 11,
+ 'downloader/request_method_count/GET': 11,
+ 'downloader/response_bytes': 482627,
+ 'downloader/response_count': 11,
+ 'downloader/response_status_count/200': 11,
+ 'elapsed_time_seconds': 0.339877,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2022, 12, 14, 11, 42, 46, 598229),
+ 'httpcache/hit': 11,
+ 'httpcompression/response_bytes': 1698008,
+ 'httpcompression/response_count': 11,
+ 'item_scraped_count': 10,
+ 'log_count/DEBUG': 26,
+ 'log_count/INFO': 7,
+ 'request_depth_max': 1,
+ 'response_received_count': 11,
+ 'scheduler/dequeued': 11,
+ 'scheduler/dequeued/memory': 11,
+ 'scheduler/enqueued': 11,
+ 'scheduler/enqueued/memory': 11,
+ 'start_time': datetime.datetime(2022, 12, 14, 11, 42, 46, 258352)}
+2022-12-14 14:42:46 [scrapy] INFO: Spider closed (finished)

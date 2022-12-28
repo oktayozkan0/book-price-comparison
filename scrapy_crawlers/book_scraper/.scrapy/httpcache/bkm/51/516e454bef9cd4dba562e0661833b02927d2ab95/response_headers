@@ -1,0 +1,13 @@
+Date: Tue, 13 Dec 2022 13:34:56 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+Expires: Tue, 13 Dec 2022 14:34:56 GMT
+Cache-Control: max-age=3600
+Cache-Control: public
+Via: 1.1 google
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=8iCj042JnyU1owz2EoYsiKpAnE6MN4ycN%2BhXsMPxm9CN1%2BG%2FmvZk38KPOSVO7tOrgRbtvDZEnNXguCBFzfZLB8o57l7JbtJgYEATYiMN6q%2Bjg5K7TIOtMuFULC71CX1A%2Fw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 778f14836a3c9174-FRA
+Content-Encoding: gzip

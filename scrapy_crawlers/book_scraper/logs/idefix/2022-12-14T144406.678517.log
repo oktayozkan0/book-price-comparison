@@ -1,0 +1,58 @@
+2022-12-14 14:44:07 [scrapy] DEBUG: Crawled (200) <GET https://www.idefix.com/Search?ActiveCategoryId=11693&MainCategoryId=0&Q=satran%C3%A7&redirect=search&Page=1> (referer: None)
+2022-12-14 14:44:08 [scrapy] DEBUG: Crawled (200) <GET https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0001782683001> (referer: https://www.idefix.com/Search?ActiveCategoryId=11693&MainCategoryId=0&Q=satran%C3%A7&redirect=search&Page=1)
+2022-12-14 14:44:08 [scrapy] DEBUG: Crawled (200) <GET https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0001747452001> (referer: https://www.idefix.com/Search?ActiveCategoryId=11693&MainCategoryId=0&Q=satran%C3%A7&redirect=search&Page=1)
+2022-12-14 14:44:08 [scrapy] DEBUG: Crawled (200) <GET https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0001749874001> (referer: https://www.idefix.com/Search?ActiveCategoryId=11693&MainCategoryId=0&Q=satran%C3%A7&redirect=search&Page=1)
+2022-12-14 14:44:08 [scrapy] DEBUG: Crawled (200) <GET https://www.idefix.com/kitap/satranc-clz/edebiyat/roman/dunya-roman/urunno=0001740192001> (referer: https://www.idefix.com/Search?ActiveCategoryId=11693&MainCategoryId=0&Q=satran%C3%A7&redirect=search&Page=1)
+2022-12-14 14:44:08 [scrapy] DEBUG: Crawled (200) <GET https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0001847133001> (referer: https://www.idefix.com/Search?ActiveCategoryId=11693&MainCategoryId=0&Q=satran%C3%A7&redirect=search&Page=1)
+2022-12-14 14:44:08 [scrapy] DEBUG: Crawled (200) <GET https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0001724217001> (referer: https://www.idefix.com/Search?ActiveCategoryId=11693&MainCategoryId=0&Q=satran%C3%A7&redirect=search&Page=1)
+2022-12-14 14:44:08 [scrapy] DEBUG: Crawled (200) <GET https://www.idefix.com/kitap/satranc/stefan-zweig/edebiyat/roman/dunya-klasik/urunno=0001833725001> (referer: https://www.idefix.com/Search?ActiveCategoryId=11693&MainCategoryId=0&Q=satran%C3%A7&redirect=search&Page=1)
+2022-12-14 14:44:08 [scrapy] DEBUG: Crawled (200) <GET https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0000000686289> (referer: https://www.idefix.com/Search?ActiveCategoryId=11693&MainCategoryId=0&Q=satran%C3%A7&redirect=search&Page=1)
+2022-12-14 14:44:08 [scrapy] DEBUG: Scraped from <200 https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0001782683001>
+{'provider': 'IDEFIX', 'title': 'Satranç', 'price': '17.00', 'author': 'Stefan Zweig', 'product_url': 'https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0001782683001', 'image_url': 'https://i.idefix.com/cache/500x400-0/originals/0001782683001-1.jpg', 'publisher': 'Turkuvaz Kitap'}
+2022-12-14 14:44:08 [scrapy] DEBUG: Scraped from <200 https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0001747452001>
+{'provider': 'IDEFIX', 'title': 'Satranç', 'price': '5.32', 'author': 'Stefan Zweig', 'product_url': 'https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0001747452001', 'image_url': 'https://i.idefix.com/cache/500x400-0/originals/0001747452001-1.jpg', 'publisher': 'Kırmızı Çatı'}
+2022-12-14 14:44:08 [scrapy] DEBUG: Scraped from <200 https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0001749874001>
+{'provider': 'IDEFIX', 'title': 'Satranç', 'price': '10.50', 'author': 'Stefan Zweig', 'product_url': 'https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0001749874001', 'image_url': 'https://i.idefix.com/cache/500x400-0/originals/0001749874001-1.jpg', 'publisher': 'Anonim Yayınları'}
+2022-12-14 14:44:08 [scrapy] DEBUG: Scraped from <200 https://www.idefix.com/kitap/satranc-clz/edebiyat/roman/dunya-roman/urunno=0001740192001>
+{'provider': 'IDEFIX', 'title': 'Satranç', 'price': '8.75', 'author': 'Stefan Zweig', 'product_url': 'https://www.idefix.com/kitap/satranc-clz/edebiyat/roman/dunya-roman/urunno=0001740192001', 'image_url': 'https://i.idefix.com/cache/500x400-0/originals/0001740192001-1.jpg', 'publisher': 'Aspendos Yayıncılık'}
+2022-12-14 14:44:08 [scrapy] DEBUG: Scraped from <200 https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0001847133001>
+{'provider': 'IDEFIX', 'title': 'Satranç', 'price': '9.75', 'author': 'Stefan Zweig', 'product_url': 'https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0001847133001', 'image_url': 'https://i.idefix.com/cache/500x400-0/originals/0001847133001-1.jpg', 'publisher': 'Mahzen'}
+2022-12-14 14:44:08 [scrapy] DEBUG: Scraped from <200 https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0001724217001>
+{'provider': 'IDEFIX', 'title': 'Satranç', 'price': '12.60', 'author': 'Stefan Zweig', 'product_url': 'https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0001724217001', 'image_url': 'https://i.idefix.com/cache/500x400-0/originals/0001724217001-1.jpg', 'publisher': 'İletişim Yayıncılık'}
+2022-12-14 14:44:08 [scrapy] DEBUG: Scraped from <200 https://www.idefix.com/kitap/satranc/stefan-zweig/edebiyat/roman/dunya-klasik/urunno=0001833725001>
+{'provider': 'IDEFIX', 'title': 'Satranç', 'price': '11.40', 'author': 'Stefan Zweig', 'product_url': 'https://www.idefix.com/kitap/satranc/stefan-zweig/edebiyat/roman/dunya-klasik/urunno=0001833725001', 'image_url': 'https://i.idefix.com/cache/500x400-0/originals/0001833725001-1.jpg', 'publisher': 'Hasrem'}
+2022-12-14 14:44:08 [scrapy] DEBUG: Scraped from <200 https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0000000686289>
+{'provider': 'IDEFIX', 'title': 'Satranç', 'price': '12.00', 'author': 'Stefan Zweig', 'product_url': 'https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0000000686289', 'image_url': 'https://i.idefix.com/cache/500x400-0/originals/0000000686289-1.jpg', 'publisher': 'Bilgi Yayınevi'}
+2022-12-14 14:44:08 [scrapy] DEBUG: Crawled (200) <GET https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0000000402142> (referer: https://www.idefix.com/Search?ActiveCategoryId=11693&MainCategoryId=0&Q=satran%C3%A7&redirect=search&Page=1)
+2022-12-14 14:44:08 [scrapy] DEBUG: Crawled (200) <GET https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0000000402143> (referer: https://www.idefix.com/Search?ActiveCategoryId=11693&MainCategoryId=0&Q=satran%C3%A7&redirect=search&Page=1)
+2022-12-14 14:44:08 [scrapy] DEBUG: Scraped from <200 https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0000000402142>
+{'provider': 'IDEFIX', 'title': 'Satranç', 'price': '9.90', 'author': 'Stefan Zweig', 'product_url': 'https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0000000402142', 'image_url': 'https://i.idefix.com/cache/500x400-0/originals/0000000402142-1.jpg', 'publisher': 'İş Bankası Kültür Yayınları'}
+2022-12-14 14:44:08 [scrapy] DEBUG: Scraped from <200 https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0000000402143>
+{'provider': 'IDEFIX', 'title': 'Satranç', 'price': '41.25', 'author': 'Stefan Zweig', 'product_url': 'https://www.idefix.com/kitap/satranc/edebiyat/roman/dunya-roman/urunno=0000000402143', 'image_url': 'https://i.idefix.com/cache/500x400-0/originals/0000000402143-1.jpg', 'publisher': 'İş Bankası Kültür Yayınları'}
+2022-12-14 14:44:08 [scrapy] INFO: Closing spider (finished)
+2022-12-14 14:44:08 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 6566,
+ 'downloader/request_count': 11,
+ 'downloader/request_method_count/GET': 11,
+ 'downloader/response_bytes': 493384,
+ 'downloader/response_count': 11,
+ 'downloader/response_status_count/200': 11,
+ 'elapsed_time_seconds': 1.480135,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2022, 12, 14, 11, 44, 8, 594526),
+ 'httpcache/firsthand': 11,
+ 'httpcache/miss': 11,
+ 'httpcache/store': 11,
+ 'httpcompression/response_bytes': 1771839,
+ 'httpcompression/response_count': 11,
+ 'item_scraped_count': 10,
+ 'log_count/DEBUG': 26,
+ 'log_count/INFO': 7,
+ 'request_depth_max': 1,
+ 'response_received_count': 11,
+ 'scheduler/dequeued': 11,
+ 'scheduler/dequeued/memory': 11,
+ 'scheduler/enqueued': 11,
+ 'scheduler/enqueued/memory': 11,
+ 'start_time': datetime.datetime(2022, 12, 14, 11, 44, 7, 114391)}
+2022-12-14 14:44:08 [scrapy] INFO: Spider closed (finished)

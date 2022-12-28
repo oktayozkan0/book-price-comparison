@@ -1,6 +1,7 @@
-# book-price-comparison
 <br/>
-<h2>I don't usually publish my personal projects but i applied for a job on 5 Monkeys. So if you came here from my application form, this repo is for you.. <3 </h2>
+<h2>Important note</h2>
+This is an experimental project. There may be problems, bugs and prices might be wrong (they are usually true).
+# book-price-comparison
 Simple Web Scraper with Django and Scrapy,
 Only Turkish books and Turkish book eCommerce websites  (except Amazon)
 <br/>

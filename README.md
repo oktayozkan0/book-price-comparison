@@ -1,5 +1,5 @@
 # book-price-comparison
-<h2>I dont usually publish my personal projects but i applied fo a job on 5 Monkeys. So if you came here from my application form, this repo is for you.. <3 <h2/>
+<h2>I dont usually publish my personal projects but i applied fo a job on 5 Monkeys. So if you came here from my application form, this repo is for you.. <3 </h2>
 Simple Web Scraper with Django and Scrapy,
 Only Turkish books and Turkish book eCommerce websites  (except Amazon)
 <br/>

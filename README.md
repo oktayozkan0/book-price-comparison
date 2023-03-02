@@ -1,6 +1,6 @@
 <br/>
 <h2>Important note</h2>
-This is an experimental project. There may be problems, bugs and prices might be wrong (they are usually true).
+This is an experimental project. There may be problems, bugs and prices might be wrong (they are usually right).
 <h1> book-price-comparison </h1>
 Simple Web Scraper with Django and Scrapy,
 Only Turkish books and Turkish book eCommerce websites  (except Amazon)
@@ -45,7 +45,7 @@ results are sorting by low to high price
 <br/>
 columns are BOOK TITLE, AUTHOR, PUBLISHER, PROVIDER, PRICE and	WEBSITE.
 <br/>
-By the way, you can go to website with GO button.
+You can go to website with GO button.
 ![image](https://user-images.githubusercontent.com/103560387/209805903-74d45319-b1ab-4f43-a513-589a9670e433.png)
 ![image](https://user-images.githubusercontent.com/103560387/209805934-6e46a2f3-fd74-4dd3-b24f-a983fb48db7f.png)
 
